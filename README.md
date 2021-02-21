@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and NLP using [`spacy`](spacy.io/).
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](camba.coop/).
-- 📫 How to reach me: `santiago@camba.coop`
+- 📫 How to reach me: [`santiago@camba.coop`](mailto:santiago@camba.coop)
 - 😄 Pronouns: `sann`
 - ⚡ Fun fact: You think you know who `Mr. Rabbit` is, but you really don't.
 
