@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [`live_dj`](https://github.com/sgobotta/live_dj/).
+- 🌱 I’m currently learning [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and NLP using [`spacy`](spacy.io/).
+- 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
+- :office: I’m currently working at [`cambá`](camba.coop/)
+- 📫 How to reach me: `santiago@camba.coop`
+- 😄 Pronouns: `sann`
+- ⚡ Fun fact: You think you know who `Mr. Rabbit` is, but you really don't
