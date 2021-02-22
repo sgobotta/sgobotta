@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on [`live_dj`](https://github.com/sgobotta/live_dj/).
+- 🔭 I’m currently working on <code><a target="_blank" href="https://github.com/sgobotta/live_dj/">live_dj</a></code>.
 - 🌱 I’m currently learning [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and NLP using [`spacy`](spacy.io/).
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
