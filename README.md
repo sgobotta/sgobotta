@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 🔭 I’m currently working on <code><a target="_blank" href="https://github.com/sgobotta/live_dj/">live_dj</a></code>.
-- 🌱 I’m currently learning [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and NLP using [`spacy`](spacy.io/).
+- 🌱 I’m currently getting dirty on [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and learning the [`diem`](https://www.diem.com/en-us/) and [`aleo`](https://www.aleo.org/) nfts and blockchain bussiness.
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
 - 📫 How to reach me: [`santiago@camba.coop`](mailto:santiago@camba.coop)
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://avatars.githubusercontent.com/u/6510388?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+## Stats
+
 <p align="left">
   <a href="https://github.com/sgobotta">
     <img align="center" alt="Santiago Botta GitHub Stats"
@@ -64,3 +66,5 @@ Here are some ideas to get you started:
     />
   </a>
 <p>
+
+---
