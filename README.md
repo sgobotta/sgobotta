@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 🔭 I’m currently working on <code><a target="_blank" href="https://github.com/sgobotta/live_dj/">live_dj</a></code>.
-- 🌱 I’m currently getting dirty on [`elixir`](https://elixir-lang.org/), the [`Phoenix framework`](phoenixframework.org/) and microservices and distributed systems.
+- 🌱 I’m currently adopting [`elixir`](https://elixir-lang.org/) and the [`Phoenix framework`](phoenixframework.org/) as suitable tools for building microservices and distributed systems.
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
 - 📫 How to reach me: [`santiago@camba.coop`](mailto:santiago@camba.coop)
