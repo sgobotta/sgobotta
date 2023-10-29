@@ -41,14 +41,15 @@ Here are some ideas to get you started:
 
 ## Language and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/153393?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/6510388?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<a href="https://nodejs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://react.dev/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
+<a href="https://vuejs.org/" target="_blank"><code><img height="20" src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"></code></a>
+<a href="https://tailwindcss.com/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"></code></a>
+<a href="https://www.erlang.org/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/153393?s=200&v=4"></code></a>
+<a href="https://elixir-lang.org/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/1481354?s=200&v=4"></code></a>
+<a href="https://www.phoenixframework.org/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/6510388?s=200&v=4"></code></a>
+<a href="https://www.python.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 
 ## Stats
 
