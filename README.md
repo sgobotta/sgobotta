@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 <a href="https://nodejs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank"><code><img height="24" src="https://camo.githubusercontent.com/5aec1e24fdd8771b6010afbe9ea5b7a07c7f71fe8ca6b3a6c2674354aed34513/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f747970657363726970742e706e67"></code></a>
 <a href="https://react.dev/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
 <a href="https://vuejs.org/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code></a>
 <a href="https://tailwindcss.com/" target="_blank"><code><img height="20" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"></code></a>
