@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌐 Take a look at my personal website at [https://some-site](https://some-site)
 -->
 
 <p align="left">
@@ -35,9 +36,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently adopting [`elixir`](https://elixir-lang.org/) and the [`Phoenix framework`](phoenixframework.org/) as suitable tools for building microservices and distributed systems.
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
-- 📫 How to reach me: [`santiago@camba.coop`](mailto:santiago@camba.coop)
-- 😄 Pronouns: `sann`
+- 📫 How to reach me: [`sgobotta@gmail.com`](mailto:sgobotta@gmail.com)
+- 😄 Pronouns: `sann (he/him)`
 - ⚡ Fun fact: You think you know who `Mr. Rabbit` is, but you really don't.
+- 🌐 Take a look at my personal website at [https://liveapps.com.ar](https://liveapps.com.ar)
 
 ## Language and Tools
 
