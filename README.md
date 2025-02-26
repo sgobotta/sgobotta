@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ## About me
 
 - 🔭 I’m currently working on <code><a target="_blank" href="https://gitlab.com/colmena-project/dev/">colmena</a></code>, <code><a target="_blank" href="https://github.com/sgobotta/live_dj/">live_dj</a></code>, <code><a target="_blank" href="https://github.com/sgobotta/ex_finance/">ex_finance</a></code> and <code><a target="_blank" href="https://github.com/sgobotta/ex_commerce/">ex_commerce</a></code>.
-- 🌱 I’m currently adopting [`elixir`](https://elixir-lang.org/) and the [`Phoenix framework`](phoenixframework.org/) as suitable tools for building microservices and distributed systems.
+- 🌱 I’m currently adopting [`Elixir`](https://elixir-lang.org/) and the [`Phoenix Framework`](phoenixframework.org/) as suitable tools for building microservices and distributed systems.
 - 🤔 I’m looking for ideas to apply real-time features on livecoding libraries, such as [`hydra`](https://github.com/ojack/hydra/), [`tidalcycles`](https://github.com/tidalcycles/Tidal).
 - 🏢 I’m currently working at [`cambá coop`](https://camba.coop/).
 - 📫 How to reach me: [`sgobotta@gmail.com`](mailto:sgobotta@gmail.com)
 - 😄 Pronouns: `sann (he/him)`
 - ⚡ Fun fact: You think you know who `Mr. Rabbit` is, but you really don't.
-- 🌐 Take a look at my personal website at [https://liveapps.com.ar](https://liveapps.com.ar)
+- 🌐 Take a look at my personal website at [`liveapps.com.ar`](https://liveapps.com.ar)
 
 ## Language and Tools
 
