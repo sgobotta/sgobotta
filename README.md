@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
       <img
         alt="Santiago's achievements"
-        src="https://github-profile-trophy.vercel.app/?username=sgobotta&theme=nord&row=4&column=3&title=-Reviews&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+        src="https://github-profile-trophy.vercel.app/?username=sgobotta&theme=nord&row=4&column=3&title=-Reviews&margin-w=15&margin-h=15&no-frame=true" />
   </a>
 </p>
 
