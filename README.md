@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ## Achievements
 
-<p align="center" style="padding: 1rem">
+<p align="center" style="padding: 3rem">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
       <img
